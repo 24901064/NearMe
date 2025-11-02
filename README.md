@@ -26,8 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-Name : RISHI R
-Register Number : 212224040277
+Name : S.BHARANIU KUMAR
+Register Number : 212224230035
 
  map.html
 
@@ -39,7 +39,7 @@ Register Number : 212224040277
         <h1 align="center">
             <b>Vellore</b>
         </h1>
-        <h3 align="center">RISHI R (212224040277)</h3>
+        <h3 align="center">S.BHARANI KUMAR (212224230035)</h3>
         <center>
         <img src="map.png" usemap="#MyCity" height="610" width="1450">
         <map name="MyCity">
@@ -126,7 +126,7 @@ GOLDEN TEMPLE.html
 
 
 ## OUTPUT
-![alt text](1.png)
+<img width="1894" height="922" alt="image" src="https://github.com/user-attachments/assets/6cbd9f43-c45c-4dca-a9c2-9ffaa951c711" />
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
