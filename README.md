@@ -127,9 +127,10 @@ GOLDEN TEMPLE.html
 
 ## OUTPUT
 <img width="1894" height="922" alt="image" src="https://github.com/user-attachments/assets/6cbd9f43-c45c-4dca-a9c2-9ffaa951c711" />
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
+<img width="1190" height="621" alt="Screenshot 2025-11-02 213616" src="https://github.com/user-attachments/assets/edece122-020d-4e26-86c5-a490724a8354" />
+<img width="1123" height="647" alt="Screenshot 2025-11-02 213626" src="https://github.com/user-attachments/assets/59c0ac49-718f-459b-a434-7f38f5f9f58c" />
+<img width="1308" height="598" alt="Screenshot 2025-11-02 213637" src="https://github.com/user-attachments/assets/32ab665a-9628-47c2-830b-7bf38cd80d42" />
+<img width="1133" height="589" alt="Screenshot 2025-11-02 213646" src="https://github.com/user-attachments/assets/5c28677e-507f-4d71-99a4-46b6e80b3049" />
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
